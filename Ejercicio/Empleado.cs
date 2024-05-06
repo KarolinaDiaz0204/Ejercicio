@@ -61,7 +61,18 @@ namespace Ejercicio
                 Console.WriteLine("Estado no válido.");
 
             }
-        }
 
+        }
+        
+        // Método para aumentar el salario en un porcentaje dado
+        public void AumentarSalario(decimal porcentaje)
+        {
+            decimal aumento = salario * (porcentaje / 100);
+            salario += aumento;
+            Console.WriteLine($"El salario de {nombre} ha aumentado en un {porcentaje}%.");
+        }
     }
 }
+
+
+

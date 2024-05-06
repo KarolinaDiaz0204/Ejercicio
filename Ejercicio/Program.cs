@@ -35,6 +35,10 @@ namespace Ejercicio
                 empleadoCambiarEstado.CambiarEstado(1); //Cambiar a activo
                 empleadoCambiarEstado.MostrarDetalles(); //Mostrar detalles actualizados
 
+                // Aumentar el salario en un 50% por ejemplo
+                empleadoCambiarEstado.AumentarSalario(10);
+                empleadoCambiarEstado.MostrarDetalles(); // Mostrar detalles actualizados con el nuevo salario
+
             }
 
             else

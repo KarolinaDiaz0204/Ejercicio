@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\Ejercicio\\",
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\Karolina D\\Trabajo de programaci\u00F3n1\\Ejercicio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A06933C-41F8-4A10-87C4-C75B829791FD}|Ejercicio\\Ejercicio.csproj|c:\\users\\user\\source\\repos\\ejercicio\\ejercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9A06933C-41F8-4A10-87C4-C75B829791FD}|Ejercicio\\Ejercicio.csproj|c:\\users\\user\\desktop\\karolina d\\trabajo de programaci\u00F3n1\\ejercicio\\ejercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A06933C-41F8-4A10-87C4-C75B829791FD}|Ejercicio\\Ejercicio.csproj|solutionrelative:ejercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A06933C-41F8-4A10-87C4-C75B829791FD}|Ejercicio\\Ejercicio.csproj|c:\\users\\user\\source\\repos\\ejercicio\\ejercicio\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9A06933C-41F8-4A10-87C4-C75B829791FD}|Ejercicio\\Ejercicio.csproj|c:\\users\\user\\desktop\\karolina d\\trabajo de programaci\u00F3n1\\ejercicio\\ejercicio\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A06933C-41F8-4A10-87C4-C75B829791FD}|Ejercicio\\Ejercicio.csproj|solutionrelative:ejercicio\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Empleado.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Ejercicio\\Ejercicio\\Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Karolina D\\Trabajo de programaci\u00F3n1\\Ejercicio\\Ejercicio\\Empleado.cs",
               "RelativeDocumentMoniker": "Ejercicio\\Empleado.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\Ejercicio\\Ejercicio\\Empleado.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Karolina D\\Trabajo de programaci\u00F3n1\\Ejercicio\\Ejercicio\\Empleado.cs",
               "RelativeToolTip": "Ejercicio\\Empleado.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAABAAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwEIAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-05T23:07:29.817Z"
             },
@@ -36,11 +36,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Ejercicio\\Ejercicio\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\Karolina D\\Trabajo de programaci\u00F3n1\\Ejercicio\\Ejercicio\\Program.cs",
               "RelativeDocumentMoniker": "Ejercicio\\Program.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\Ejercicio\\Ejercicio\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\Karolina D\\Trabajo de programaci\u00F3n1\\Ejercicio\\Ejercicio\\Program.cs",
               "RelativeToolTip": "Ejercicio\\Program.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAQwEAAAAABAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCUAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-05T23:06:57.308Z",
               "EditorCaption": ""
